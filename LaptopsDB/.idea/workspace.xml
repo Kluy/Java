@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a205175-0153-4d76-b642-f9b4d19c5ac0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="laptopDB: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="laptopDB: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="UniCustomer: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="laptopDB: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="UniLaptop: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Whr08IKWDMmS042lOq3SMPQOJ8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/META-INF" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.10234375" />
+    <property name="project.structure.side.proportion" value="0.5153235" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LaptopsDB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a205175-0153-4d76-b642-f9b4d19c5ac0" name="Default Changelist" comment="" />
+      <created>1579612441823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579612441823</updated>
+      <workItem from="1579612443706" duration="15645000" />
+      <workItem from="1581008479952" duration="2377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="26" key="#Assign_Data_Sources" timestamp="1580230397974">
+      <screen x="0" y="23" width="1280" height="703" />
+    </state>
+    <state x="240" y="26" key="#Assign_Data_Sources/0.23.1280.703@0.23.1280.703" timestamp="1580230397974" />
+    <state x="250" y="64" key="#Project_Structure" timestamp="1579612463883">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="250" y="64" key="#Project_Structure/0.23.1280.721@0.23.1280.721" timestamp="1579612463883" />
+    <state x="250" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579617036869">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="250" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.715@0.23.1280.715" timestamp="1579617036869" />
+    <state x="348" y="294" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1579618473902">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="348" y="294" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.23.1280.715@0.23.1280.715" timestamp="1579618473902" />
+    <state width="1218" height="133" key="GridCell.Tab.0.bottom" timestamp="1581608153060">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579618389337" />
+    <state width="1218" height="133" key="GridCell.Tab.0.bottom/0.23.1280.700@0.23.1280.700" timestamp="1580847965244" />
+    <state width="1218" height="133" key="GridCell.Tab.0.bottom/0.23.1280.703@0.23.1280.703" timestamp="1580231761197" />
+    <state width="1218" height="133" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1581608153060" />
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1579630082258" />
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1579619427992" />
+    <state width="1218" height="133" key="GridCell.Tab.0.center" timestamp="1581608153059">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579618389336" />
+    <state width="1218" height="133" key="GridCell.Tab.0.center/0.23.1280.700@0.23.1280.700" timestamp="1580847965243" />
+    <state width="1218" height="133" key="GridCell.Tab.0.center/0.23.1280.703@0.23.1280.703" timestamp="1580231761195" />
+    <state width="1218" height="133" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1581608153059" />
+    <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1579630082257" />
+    <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1579619427991" />
+    <state width="1218" height="133" key="GridCell.Tab.0.left" timestamp="1581608153058">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579618389335" />
+    <state width="1218" height="133" key="GridCell.Tab.0.left/0.23.1280.700@0.23.1280.700" timestamp="1580847965243" />
+    <state width="1218" height="133" key="GridCell.Tab.0.left/0.23.1280.703@0.23.1280.703" timestamp="1580231761193" />
+    <state width="1218" height="133" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1581608153058" />
+    <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1579630082256" />
+    <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1579619427990" />
+    <state width="1218" height="133" key="GridCell.Tab.0.right" timestamp="1581608153060">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579618389336" />
+    <state width="1218" height="133" key="GridCell.Tab.0.right/0.23.1280.700@0.23.1280.700" timestamp="1580847965244" />
+    <state width="1218" height="133" key="GridCell.Tab.0.right/0.23.1280.703@0.23.1280.703" timestamp="1580231761196" />
+    <state width="1218" height="133" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1581608153060" />
+    <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1579630082258" />
+    <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1579619427991" />
+    <state width="219" height="457" key="HiddenNamespacesPopup" timestamp="1579617099834">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="219" height="457" key="HiddenNamespacesPopup/0.23.1280.715@0.23.1280.715" timestamp="1579617099834" />
+    <state x="110" y="0" width="1101" height="800" key="SettingsEditor" timestamp="1579803791586">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="110" y="0" width="1101" height="800" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1579803791586" />
+    <state x="110" y="23" key="SettingsEditor/0.23.1280.700@0.23.1280.700" timestamp="1579803646945" />
+    <state x="110" y="23" width="1101" height="703" key="SettingsEditor/0.23.1280.703@0.23.1280.703" timestamp="1579798858189" />
+    <state x="110" y="23" width="982" height="710" key="SettingsEditor/0.23.1280.710@0.23.1280.710" timestamp="1579631202780" />
+    <state x="110" y="23" width="1025" height="715" key="SettingsEditor/0.23.1280.715@0.23.1280.715" timestamp="1579625543847" />
+    <state x="-25" y="23" width="1142" height="721" key="SettingsEditor/0.23.1280.721@0.23.1280.721" timestamp="1579613491661" />
+    <state x="519" y="168" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1579616970944">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="519" y="168" key="com.intellij.database.view.ui.DbObjectDialog/0.23.1280.715@0.23.1280.715" timestamp="1579616970944" />
+    <state x="69" y="58" key="new project wizard" timestamp="1580840147597">
+      <screen x="0" y="23" width="1280" height="703" />
+    </state>
+    <state x="69" y="58" key="new project wizard/0.23.1280.703@0.23.1280.703" timestamp="1580840147597" />
+  </component>
+</project>
