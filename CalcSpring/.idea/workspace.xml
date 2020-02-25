@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbd7e9d5-2f5b-41eb-a6b5-dd0cbb99b488" name="Default Changelist" comment="" />
+    <list default="true" id="bbd7e9d5-2f5b-41eb-a6b5-dd0cbb99b488" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kot/kot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CalcSpring" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XpwJeYeUuwD9KeU6MsHYpPgTtj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -111,11 +124,23 @@
       <workItem from="1581789549733" duration="715000" />
       <workItem from="1582218317621" duration="682000" />
       <workItem from="1582571592116" duration="396000" />
+      <workItem from="1582653696313" duration="1322000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="250" y="26" key="#Project_Structure" timestamp="1581756290244">
@@ -126,6 +151,10 @@
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="463" y="68" key="#com.intellij.ide.util.MemberChooser/0.23.1280.709@0.23.1280.709" timestamp="1581758179568" />
+    <state x="261" y="23" key="CommitChangelistDialog2" timestamp="1582654035537">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="261" y="23" key="CommitChangelistDialog2/0.23.1280.709@0.23.1280.709" timestamp="1582654035537" />
     <state width="1218" height="164" key="GridCell.Tab.0.bottom" timestamp="1582218391158">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
@@ -142,6 +171,10 @@
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1582218391157" />
+    <state x="466" y="89" key="RollbackChangesDialog" timestamp="1582653981838">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="466" y="89" key="RollbackChangesDialog/0.23.1280.709@0.23.1280.709" timestamp="1582653981838" />
     <state x="159" y="23" width="982" height="709" key="SettingsEditor" timestamp="1581757880784">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
