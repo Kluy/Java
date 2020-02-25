@@ -6,7 +6,20 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="474ced28-6289-46c5-8d2c-cb6dce164329" name="Default Changelist" comment="" />
+    <list default="true" id="474ced28-6289-46c5-8d2c-cb6dce164329" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CalcSpring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kot/kot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalcSpring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalcSpring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.0.7.RELEASE.jar" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +46,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1XRhNwOmd7vELbyfgQMtaI2le5M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -247,11 +261,24 @@
       <workItem from="1581608791132" duration="41000" />
       <workItem from="1581619157767" duration="4000" />
       <workItem from="1581619180101" duration="251000" />
+      <workItem from="1582654656470" duration="249000" />
     </task>
+    <task id="LOCAL-00001" summary="commit Spring 2 pom dep">
+      <created>1582654772829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582654772829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit Spring 2 pom dep" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit Spring 2 pom dep" />
   </component>
   <component name="WindowStateProjectService">
     <state x="208" y="46" key="#Tomcat_Server" timestamp="1581095539658">
@@ -270,6 +297,10 @@
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="208" y="46" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.23.1280.709@0.23.1280.709" timestamp="1581101834987" />
+    <state x="251" y="23" key="CommitChangelistDialog2" timestamp="1582654772435">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="251" y="23" key="CommitChangelistDialog2/0.23.1280.709@0.23.1280.709" timestamp="1582654772435" />
     <state x="370" y="103" key="DetectedRootsChooserDialog" timestamp="1581101823282">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
