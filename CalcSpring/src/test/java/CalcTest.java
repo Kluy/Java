@@ -9,13 +9,13 @@ public class CalcTest {
 
 
     @Before
-    public void setUp() throws Exception {
+    public void setUp() {
         calc.setA(2);
         calc.setB(3);
     }
 
     @After
-    public void tearDown() throws Exception {
+    public void tearDown() {
     }
 
     @Test
