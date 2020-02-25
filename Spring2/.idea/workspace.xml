@@ -9,16 +9,10 @@
     <list default="true" id="474ced28-6289-46c5-8d2c-cb6dce164329" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../CalcSpring/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kot/kot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-lection/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CalcSpring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalcSpring/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.0.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.0.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.0.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.0.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.0.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring2-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,7 +255,7 @@
       <workItem from="1581608791132" duration="41000" />
       <workItem from="1581619157767" duration="4000" />
       <workItem from="1581619180101" duration="251000" />
-      <workItem from="1582654656470" duration="249000" />
+      <workItem from="1582654656470" duration="530000" />
     </task>
     <task id="LOCAL-00001" summary="commit Spring 2 pom dep">
       <created>1582654772829</created>

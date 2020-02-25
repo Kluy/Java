@@ -1,4 +1,3 @@
-import com.sun.org.apache.xpath.internal.operations.Equals;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

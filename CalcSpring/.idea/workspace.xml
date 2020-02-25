@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbd7e9d5-2f5b-41eb-a6b5-dd0cbb99b488" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="bbd7e9d5-2f5b-41eb-a6b5-dd0cbb99b488" name="Default Changelist" comment="commit calc">
       <change afterPath="$PROJECT_DIR$/../kot/kot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.0.7.RELEASE.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +136,7 @@
       <workItem from="1581789549733" duration="715000" />
       <workItem from="1582218317621" duration="682000" />
       <workItem from="1582571592116" duration="396000" />
-      <workItem from="1582653696313" duration="1322000" />
+      <workItem from="1582653696313" duration="1644000" />
     </task>
     <servers />
   </component>
@@ -142,6 +154,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit calc" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit calc" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="250" y="26" key="#Project_Structure" timestamp="1581756290244">
       <screen x="0" y="23" width="1280" height="709" />
@@ -151,26 +167,26 @@
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="463" y="68" key="#com.intellij.ide.util.MemberChooser/0.23.1280.709@0.23.1280.709" timestamp="1581758179568" />
-    <state x="261" y="23" key="CommitChangelistDialog2" timestamp="1582654035537">
+    <state x="261" y="23" key="CommitChangelistDialog2" timestamp="1582655357350">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state x="261" y="23" key="CommitChangelistDialog2/0.23.1280.709@0.23.1280.709" timestamp="1582654035537" />
-    <state width="1218" height="164" key="GridCell.Tab.0.bottom" timestamp="1582218391158">
+    <state x="261" y="23" key="CommitChangelistDialog2/0.23.1280.709@0.23.1280.709" timestamp="1582655357350" />
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom" timestamp="1582655357397">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1582218391158" />
-    <state width="1218" height="164" key="GridCell.Tab.0.center" timestamp="1582218391157">
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1582655357397" />
+    <state width="1218" height="164" key="GridCell.Tab.0.center" timestamp="1582655357396">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1582218391157" />
-    <state width="1218" height="164" key="GridCell.Tab.0.left" timestamp="1582218391156">
+    <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1582655357396" />
+    <state width="1218" height="164" key="GridCell.Tab.0.left" timestamp="1582655357395">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1582218391156" />
-    <state width="1218" height="164" key="GridCell.Tab.0.right" timestamp="1582218391157">
+    <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1582655357395" />
+    <state width="1218" height="164" key="GridCell.Tab.0.right" timestamp="1582655357396">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1582218391157" />
+    <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1582655357396" />
     <state x="466" y="89" key="RollbackChangesDialog" timestamp="1582653981838">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
