@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c5e30c7-5c4d-4088-a1af-d4fe06ea310b" name="Default Changelist" comment="" />
+    <list default="true" id="9c5e30c7-5c4d-4088-a1af-d4fe06ea310b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kot/kot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalcSpring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalcSpring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/FoodImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/FoodImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/MainConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/MainConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/src/main/java/controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/src/main/java/controllers/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/src/main/webapp/WEB-INF/views/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/src/main/webapp/WEB-INF/views/products.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/src/main/webapp/WEB-INF/views/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/src/main/webapp/WEB-INF/views/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/classes/controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/classes/controllers/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/views/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/views/products.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/views/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/views/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/target/classes/controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/target/classes/controllers/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/src/main/java/config/JpaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/src/main/java/config/JpaConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/src/main/java/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/src/main/java/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/classes/config/JpaConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/target/classes/config/JpaConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/classes/services/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/target/classes/services/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/classes/config/JpaConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/classes/config/JpaConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/classes/services/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/classes/services/ProductService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +37,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XLzQf9HxgoIDdOlSRyH8TyL6X3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,8 +49,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,6 +99,7 @@
       <updated>1580840147719</updated>
       <workItem from="1580840149460" duration="2409000" />
       <workItem from="1581009253266" duration="3581000" />
+      <workItem from="1582793324259" duration="332000" />
     </task>
     <servers />
   </component>
@@ -83,26 +112,30 @@
     </state>
     <state x="822" y="111" key="#com.intellij.ide.util.MemberChooser/0.23.1280.706@0.23.1280.706" timestamp="1580840418494" />
     <state x="799" y="111" key="#com.intellij.ide.util.MemberChooser/0.23.1280.708@0.23.1280.708" timestamp="1580846982369" />
-    <state width="1218" height="164" key="GridCell.Tab.0.bottom" timestamp="1580847886241">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom" timestamp="1582793657020">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.703@0.23.1280.703" timestamp="1580840826748" />
     <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.708@0.23.1280.708" timestamp="1580847886241" />
-    <state width="1218" height="164" key="GridCell.Tab.0.center" timestamp="1580847886240">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1582793657020" />
+    <state width="1218" height="164" key="GridCell.Tab.0.center" timestamp="1582793657018">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.703@0.23.1280.703" timestamp="1580840826748" />
     <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.708@0.23.1280.708" timestamp="1580847886240" />
-    <state width="1218" height="164" key="GridCell.Tab.0.left" timestamp="1580847886240">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1582793657018" />
+    <state width="1218" height="164" key="GridCell.Tab.0.left" timestamp="1582793657018">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.703@0.23.1280.703" timestamp="1580840826747" />
     <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.708@0.23.1280.708" timestamp="1580847886240" />
-    <state width="1218" height="164" key="GridCell.Tab.0.right" timestamp="1580847886241">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1582793657018" />
+    <state width="1218" height="164" key="GridCell.Tab.0.right" timestamp="1582793657019">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.703@0.23.1280.703" timestamp="1580840826748" />
     <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.708@0.23.1280.708" timestamp="1580847886241" />
+    <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1582793657019" />
     <state x="73" y="91" key="new project wizard" timestamp="1581014776362">
       <screen x="0" y="23" width="1280" height="709" />
     </state>

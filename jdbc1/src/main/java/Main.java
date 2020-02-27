@@ -5,7 +5,7 @@ public class Main {
 
     static final String URL = "jdbc:mysql://localhost:3306/laptop";
     static final String USER = "root";
-    static final String PASSWORD = "soBusoduh0";
+    static final String PASSWORD = "root";
 
     static final String query = "select laptops.id," +
             "laptops.model, company_name.company_name," +
@@ -70,9 +70,10 @@ public class Main {
             }
         }
 
-        System.out.println("HP " + laptopList.stream()
+        System.out.println(laptopList.stream()
                 .filter(e -> e.getCompanyName().equals("HP"))
-                .count());
+                .count() + " модели HP");
+
 
         preparedStatement.close();
         connection.close();

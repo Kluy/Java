@@ -8,7 +8,7 @@ public class ManagerFactory {
     private static EntityManagerFactory entityManagerFactory;
 
     static {
-        entityManagerFactory = Persistence.createEntityManagerFactory("laptop_db");
+        entityManagerFactory = Persistence.createEntityManagerFactory("laptops");
     }
 
     public static EntityManager getEntityManager() {

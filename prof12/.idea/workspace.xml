@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bf7f000-3cc5-4b9e-8865-444121d78e1a" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="4bf7f000-3cc5-4b9e-8865-444121d78e1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LaptopsDB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kot/kot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalcSpring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalcSpring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laptop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laptop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laptop/Laptop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laptop/Laptop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laptop/src/main/java/util/FactorySession.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laptop/src/main/java/util/FactorySession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laptop/src/main/java/util/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laptop/src/main/java/util/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laptop/target/classes/META-INF/Laptop.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laptop/target/classes/util/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laptop/target/classes/util/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaptopsDB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LaptopsDB/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaptopsDB/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LaptopsDB/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaptopsDB/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LaptopsDB/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaptopsDB/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LaptopsDB/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaptopsDB/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LaptopsDB/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/java/model/FoodImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/src/main/java/model/FoodImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/target/classes/model/FoodImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/target/classes/model/FoodImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/target/classes/util/MainConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/target/classes/util/MainConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/src/main/java/controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/src/main/java/controllers/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/src/main/webapp/WEB-INF/views/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/src/main/webapp/WEB-INF/views/products.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/src/main/webapp/WEB-INF/views/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/src/main/webapp/WEB-INF/views/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/classes/controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/classes/controllers/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/views/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/views/products.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/views/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/views/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/target/classes/controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/target/classes/controllers/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc1/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc1/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc1/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc1/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/src/main/java/config/JpaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/src/main/java/config/JpaConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/src/main/java/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/src/main/java/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/classes/config/JpaConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/target/classes/config/JpaConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/classes/services/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/target/classes/services/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/classes/config/JpaConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/classes/config/JpaConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/classes/services/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/classes/services/ProductService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,21 +54,21 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1VvLSUKmH504TWpdlqvMU0yuYdS" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="ProjectId" id="1VvLSUKmH504TWpdlqvMU0yuYdS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -51,6 +90,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -61,7 +112,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578128621928</updated>
+      <workItem from="1582794831215" duration="7000" />
+      <workItem from="1582794953881" duration="13000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
 </project>

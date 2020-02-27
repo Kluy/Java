@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a205175-0153-4d76-b642-f9b4d19c5ac0" name="Default Changelist" comment="" />
+    <list default="true" id="5a205175-0153-4d76-b642-f9b4d19c5ac0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kot/kot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalcSpring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalcSpring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/java/model/FoodImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/src/main/java/model/FoodImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/target/classes/model/FoodImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/target/classes/model/FoodImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/target/classes/util/MainConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/target/classes/util/MainConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/src/main/java/controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/src/main/java/controllers/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/src/main/webapp/WEB-INF/views/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/src/main/webapp/WEB-INF/views/products.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/src/main/webapp/WEB-INF/views/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/src/main/webapp/WEB-INF/views/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/classes/controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/classes/controllers/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/views/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/views/products.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/views/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/target/Spring2-1.0-SNAPSHOT/WEB-INF/views/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/target/classes/controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/target/classes/controllers/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/src/main/java/config/JpaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/src/main/java/config/JpaConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/src/main/java/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/src/main/java/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/classes/config/JpaConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/target/classes/config/JpaConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/classes/services/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/target/classes/services/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/classes/config/JpaConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/classes/config/JpaConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/classes/services/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-lection/target/spring-mvc-lection-1.0-SNAPSHOT/WEB-INF/classes/services/ProductService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +87,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -66,6 +98,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Whr08IKWDMmS042lOq3SMPQOJ8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -74,6 +107,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/META-INF" />
@@ -132,6 +166,7 @@
       <updated>1579612441823</updated>
       <workItem from="1579612443706" duration="15645000" />
       <workItem from="1581008479952" duration="2377000" />
+      <workItem from="1582793672267" duration="281000" />
     </task>
     <servers />
   </component>
@@ -155,40 +190,40 @@
       <screen x="0" y="23" width="1280" height="715" />
     </state>
     <state x="348" y="294" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.23.1280.715@0.23.1280.715" timestamp="1579618473902" />
-    <state width="1218" height="133" key="GridCell.Tab.0.bottom" timestamp="1581608153060">
+    <state width="1218" height="133" key="GridCell.Tab.0.bottom" timestamp="1582793953382">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="164" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579618389337" />
     <state width="1218" height="133" key="GridCell.Tab.0.bottom/0.23.1280.700@0.23.1280.700" timestamp="1580847965244" />
     <state width="1218" height="133" key="GridCell.Tab.0.bottom/0.23.1280.703@0.23.1280.703" timestamp="1580231761197" />
-    <state width="1218" height="133" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1581608153060" />
+    <state width="1218" height="133" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1582793953382" />
     <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1579630082258" />
     <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1579619427992" />
-    <state width="1218" height="133" key="GridCell.Tab.0.center" timestamp="1581608153059">
+    <state width="1218" height="133" key="GridCell.Tab.0.center" timestamp="1582793953381">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="164" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579618389336" />
     <state width="1218" height="133" key="GridCell.Tab.0.center/0.23.1280.700@0.23.1280.700" timestamp="1580847965243" />
     <state width="1218" height="133" key="GridCell.Tab.0.center/0.23.1280.703@0.23.1280.703" timestamp="1580231761195" />
-    <state width="1218" height="133" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1581608153059" />
+    <state width="1218" height="133" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1582793953381" />
     <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1579630082257" />
     <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1579619427991" />
-    <state width="1218" height="133" key="GridCell.Tab.0.left" timestamp="1581608153058">
+    <state width="1218" height="133" key="GridCell.Tab.0.left" timestamp="1582793953380">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="164" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579618389335" />
     <state width="1218" height="133" key="GridCell.Tab.0.left/0.23.1280.700@0.23.1280.700" timestamp="1580847965243" />
     <state width="1218" height="133" key="GridCell.Tab.0.left/0.23.1280.703@0.23.1280.703" timestamp="1580231761193" />
-    <state width="1218" height="133" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1581608153058" />
+    <state width="1218" height="133" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1582793953380" />
     <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1579630082256" />
     <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1579619427990" />
-    <state width="1218" height="133" key="GridCell.Tab.0.right" timestamp="1581608153060">
+    <state width="1218" height="133" key="GridCell.Tab.0.right" timestamp="1582793953382">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="164" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579618389336" />
     <state width="1218" height="133" key="GridCell.Tab.0.right/0.23.1280.700@0.23.1280.700" timestamp="1580847965244" />
     <state width="1218" height="133" key="GridCell.Tab.0.right/0.23.1280.703@0.23.1280.703" timestamp="1580231761196" />
-    <state width="1218" height="133" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1581608153060" />
+    <state width="1218" height="133" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1582793953382" />
     <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1579630082258" />
     <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1579619427991" />
     <state width="219" height="457" key="HiddenNamespacesPopup" timestamp="1579617099834">

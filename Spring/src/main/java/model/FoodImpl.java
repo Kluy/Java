@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class FoodImpl implements Food {
     @Override
     public String toString() {
-        return "FoodImpl";
+        return "FoodImpl meat";
     }
 }

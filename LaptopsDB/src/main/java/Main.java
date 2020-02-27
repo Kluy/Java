@@ -41,11 +41,11 @@ public class Main {
 
         entityTransaction.commit();
 
-        for (int i = 0; i < 6; i++) {
+        for (int i = 1; i < 6; i++) {
             System.out.println(entityManager.find(Customer.class, i));
         }
 
-        for (int i = 0; i < 6; i++) {
+        for (int i = 1; i < 6; i++) {
             System.out.println(entityManager.find(Laptop.class, i));
         }
 
